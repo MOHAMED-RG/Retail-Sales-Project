@@ -54,4 +54,4 @@ The dashboard includes:
 
 ## Dashboard
 
-![Retail Sales Dashboard](images/dashboard.png)
+![Retail Sales Dashboard](dashboard.png)
