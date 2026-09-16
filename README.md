@@ -16,8 +16,8 @@ The project follows a two-stage workflow:
 - **Power BI** for data analysis, DAX calculations, and interactive
   visualization
 
-The goal is to transform raw retail transaction data into clear and
-actionable business insights.
+The goal is to transform raw retail transaction data into clear business
+insights.
 
 ## 📁 Dataset
 
